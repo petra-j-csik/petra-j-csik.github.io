@@ -1,12 +1,15 @@
 img {
-  width: 100%;
+  width: 1100px;
 }
 
 header {
   font-size: 27px;
   letter-spacing: 2px;
   color: #262626;
-  margin: 0px 30px 30px 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+  position: relative;
 }
 
 .block-header {
@@ -30,15 +33,15 @@ header {
 
 h1 {
   position: absolute;
-  top: 200px;
-  left: 240px;
+  top: 230px;
+  left: 250px;
   font-family: "Abril Fatface", cursive;
 }
 
 h3 {
   position: absolute;
-  top: 170px;
-  left: 240px;
+  top: 200px;
+  left: 250px;
   font-family: "Abril Fatface", cursive;
 }
 
@@ -67,7 +70,7 @@ footer {
   border-top: 2px solid #404040;
   width: 600px;
   margin-left: auto;
-  margin-right: 235pxauto;
+  margin-right: auto;
   margin-bottom: 30px;
   font-size: 13px;
   font-family: "Josefin Sans", sans-serif;
